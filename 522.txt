@@ -1,1 +1,12 @@
-C programming 
+
+User@DESKTOP-4FFQ8I3 MINGW64 ~/Desktop/Git/Demo (master)
+$ git add .
+warning: LF will be replaced by CRLF in ඉබ්බා.py.
+The file will have its original line endings in your working directory
+
+User@DESKTOP-4FFQ8I3 MINGW64 ~/Desktop/Git/Demo (master)
+$ git push origin master
+Everything up-to-date
+
+User@DESKTOP-4FFQ8I3 MINGW64 ~/Desktop/Git/Demo (master)
+$
